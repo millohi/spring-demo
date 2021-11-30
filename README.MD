@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lars-gentsch-thb_demo-spring-maven&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=lars-gentsch-thb_demo-spring-maven)
+
 
 import org.springframework.beans.factory.annotation.Value;
 ...
