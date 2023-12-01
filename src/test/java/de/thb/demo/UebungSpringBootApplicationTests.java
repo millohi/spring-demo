@@ -7,7 +7,10 @@ class UebungSpringBootApplicationTests {
 
 	@Test
 	void contextLoads() {
+		int x = 0;
+		int y = 1;
 		System.out.println("This is a unit test!");
+		assert x != y;
 	}
 
 }
