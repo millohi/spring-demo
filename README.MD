@@ -1,4 +1,5 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lars-gentsch-thb_demo-spring-maven&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=lars-gentsch-thb_demo-spring-maven) ![CI status](https://github.com/lars-gentsch-thb/demo-spring-maven/actions/workflows/maven.yml/badge.svg) ![Docker build status](https://github.com/lars-gentsch-thb/demo-spring-maven/actions/workflows/docker.yml/badge.svg)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=millohi_spring-demo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=millohi_spring-demo)
 
 
 
